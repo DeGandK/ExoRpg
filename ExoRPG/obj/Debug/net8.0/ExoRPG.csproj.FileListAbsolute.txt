@@ -1,0 +1,14 @@
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\obj\Debug\net8.0\ExoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\obj\Debug\net8.0\ExoRPG.AssemblyInfoInputs.cache
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\obj\Debug\net8.0\ExoRPG.AssemblyInfo.cs
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\obj\Debug\net8.0\ExoRPG.csproj.CoreCompileInputs.cache
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\bin\Debug\net8.0\ExoRPG.exe
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\bin\Debug\net8.0\ExoRPG.deps.json
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\bin\Debug\net8.0\ExoRPG.runtimeconfig.json
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\bin\Debug\net8.0\ExoRPG.dll
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\bin\Debug\net8.0\ExoRPG.pdb
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\obj\Debug\net8.0\ExoRPG.dll
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\obj\Debug\net8.0\refint\ExoRPG.dll
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\obj\Debug\net8.0\ExoRPG.pdb
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\obj\Debug\net8.0\ExoRPG.genruntimeconfig.cache
+C:\Users\k.degand\Desktop\CSHARP\ExoRPG\ExoRPG\obj\Debug\net8.0\ref\ExoRPG.dll
